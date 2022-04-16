@@ -1,7 +1,7 @@
 # FDE Bonus Project - join-query-TPCH
 
 
-## Task 1
+## Task
 
 Implement the **_avg function_** and **_constructor_** in `src/JoinQuery.cpp`. 
 See the corresponding header `include/JoinQuery.hpp` for documentation of this function. 
